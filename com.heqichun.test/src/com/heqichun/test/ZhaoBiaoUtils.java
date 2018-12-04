@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class ZhaoBiaoUtils {
 	public static void main(String[] args) throws IOException {
-		File file=new File("D:\\py_anaylsis_20181201_missing.txt");
+		File file=new File("D:\\py_anaylsis_20181203_missing.txt");
 		FileWriter writer = new FileWriter("D://test5.txt");
 		BufferedWriter bw = new BufferedWriter(writer);
 		BufferedReader reader=null;
